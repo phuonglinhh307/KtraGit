@@ -1,0 +1,75 @@
+<resources>
+
+    <string name="app_name">
+        Student Profile
+    </string>
+
+    <string name="screen_title">
+        QUẢN LÝ HỒ SƠ HỌC TẬP
+    </string>
+
+    <string name="screen_subtitle">
+        Thông tin và kết quả học tập sinh viên
+    </string>
+
+    <string name="student_information">
+        THÔNG TIN SINH VIÊN
+    </string>
+
+    <string name="student_id_class">
+        MSSV: %1$s • Lớp: %2$s
+    </string>
+
+    <string name="student_email">
+        Email: %1$s
+    </string>
+
+    <string name="student_gpa">
+        GPA: %1$.2f • %2$s
+    </string>
+
+    <string name="honor_student">
+        ★ Sinh viên thành tích cao
+    </string>
+
+    <string name="action_title">
+        CẬP NHẬT KẾT QUẢ HỌC TẬP
+    </string>
+
+    <string name="gpa_hint">
+        Nhập GPA mới (0.0 - 4.0)
+    </string>
+
+    <string name="btn_update_gpa">
+        CẬP NHẬT ĐIỂM GPA
+    </string>
+
+    <string name="btn_reset">
+        KHÔI PHỤC MẶC ĐỊNH
+    </string>
+
+    <string name="error_empty_gpa">
+        Vui lòng nhập GPA
+    </string>
+
+    <string name="error_invalid_gpa">
+        GPA phải là một số hợp lệ
+    </string>
+
+    <string name="error_gpa_range">
+        GPA phải nằm trong khoảng từ 0.0 đến 4.0
+    </string>
+
+    <string name="update_success">
+        Đã cập nhật GPA thành công!
+    </string>
+
+    <string name="reset_success">
+        Đã khôi phục GPA mặc định!
+    </string>
+
+    <string name="gpa_no_change">
+        GPA mới giống GPA hiện tại
+    </string>
+
+</resources>
